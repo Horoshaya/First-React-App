@@ -1,0 +1,28 @@
+.table {
+  max-width: 500px;
+  margin: auto;
+  text-align-last: left;
+}
+
+.row {
+  padding: 10px;
+}
+
+.link {
+  color: rgb(238, 85, 85);
+}
+
+.button {
+  padding: 10px;
+  background: rgb(101, 179, 231);
+  color: rgb(255, 255, 255);
+  text-align: right;
+  border-radius: 2px;
+  border: none;
+  cursor: pointer;
+  transition-duration: 0.3s;
+}
+
+.button:hover {
+  background: rgb(56, 134, 185);
+}
